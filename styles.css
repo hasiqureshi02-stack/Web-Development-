@@ -1,0 +1,27 @@
+body{ 
+     min-height: 90vh;
+    background-image:url(bg.web.jpeg);   
+ background-size: cover;         
+  background-position: center;   
+  background-repeat: no-repeat;
+}
+
+h1{
+    color:#ff0000;
+    text-align: center;
+    border: 8px solid rgba(122, 48, 48); 
+    cursor: pointer;;
+}
+
+p{
+    color:rgb(244, 168, 168)
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+pre{
+    color:rgba(66, 193, 190, 0.83)
+    
+}
